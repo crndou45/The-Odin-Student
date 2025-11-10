@@ -1,53 +1,40 @@
-# The-Odin-Student
 
-My complete journey through The Odin Project curriculum. Contains all projects, exercises, and learning progress from foundations to full-stack development.
-
-## 📋 Table of Contents
-- [About](#about)
-- [Learning Path](#learning-path)
-- [Progress](#progress)
-- [Projects](#projects)
-- [Technologies](#technologies)
-- [Repository Structure](#repository-structure)
-
-## 🎯 About
-This repository documents my journey through The Odin Project's Full Stack JavaScript curriculum. Each project showcases my growing skills in web development.
-
-## 🗺️ Learning Path
-Following the **Full Stack JavaScript** path:
-- **Foundations** 🚧 (In Progress)
-- **Full Stack JavaScript** ⏳ (Upcoming)
-- **Advanced Topics** ⏳ (Upcoming)
-
-## 📈 Progress
-
-### Current Overall Progress: 18%
-
-**Foundations Course: 18%**
-
-
-**Course Breakdown:**
-- ✅ Introduction
-- ✅ Prerequisites
-- 🚧 Git Basics
-- ⏳ HTML Foundations
-- ⏳ CSS Foundations
-- ⏳ Flexbox
-- ⏳ JavaScript Basics
-
-## 🛠️ Projects
+## 📚 Learning Path
 
 ### Foundations
-| Project | Status | Technologies | Live Demo |
-|---------|--------|--------------|-----------|
-| Project 1 | ⏳ Upcoming | | |
-| Project 2 | ⏳ Upcoming | | |
+- Git Basics
+- HTML Foundations  
+- CSS Foundations
+- Flexbox
+- JavaScript Basics
+- **Projects:** Recipe Page, Landing Page, Rock Paper Scissors
 
-*Projects will be added here as I complete them*
+### Full Stack JavaScript
+- Advanced JavaScript
+- Node.js & Express
+- Databases & APIs
+- React
+- **Projects:** Library, Todo List, Battleship, Final Project
 
-## 💻 Technologies I'm Learning
-- **Currently Learning:** Git, HTML, CSS
-- **Up Next:** JavaScript, Node.js, Express, MongoDB
-- **Future:** React, Testing, Advanced Concepts
+## 🛠️ Technologies & Skills
 
-## 📁 Repository Structure
+**Currently Learning:**
+- Git & GitHub
+- HTML5
+- CSS3
+
+**Future Technologies:**
+- JavaScript (ES6+)
+- Node.js
+- Express
+- MongoDB
+- React
+- Testing (Jest)
+
+## 🚀 Live Demos
+
+All completed projects are deployed via GitHub Pages. Check individual project folders for demo links.
+
+---
+
+*This repository documents my web development journey with [The Odin Project](https://www.theodinproject.com/).*
