@@ -53,4 +53,4 @@ This project was created to practice:
 
 1. Clone the repository:
 ```bash
-git clone : (https://github.com/crndou45/odin-recipes.git)
+git clone :[ [(https://github.com/crndou45/odin-recipes.git)](https://github.com/crndou45/The-Odin-Student/tree/main/odin-recipe)](https://github.com/crndou45/The-Odin-Student/tree/main/odin-recipe)
