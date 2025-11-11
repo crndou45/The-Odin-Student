@@ -19,14 +19,26 @@ A collection of delicious South African dishes created as part of The Odin Proje
 - Git & GitHub
 
 ## 📁 Project Structure
+
+```
 odin-recipe/
-├──Images
-|──index.html
-│── kota.html
-│── magwinya-mince.html
-│── pap-chicken.html
-|── mac-cheese.html 
+
+├── Images/
+├── index.html
+├── kota.html
+├── magwinya-mince.html
+├── pap-chicken.html
+├── mac-cheese.html
 └── README.md
+```
+
+**File Overview:**
+- `index.html` - Homepage with links to all recipes
+- `kota.html` - Traditional South African bunny chow recipe
+- `magwinya-mince.html` - Vetkoek with minced meat recipe
+- `pap-chicken.html` - Maize porridge with chicken recipe  
+- `mac-cheese.html` - South African style macaroni and cheese
+- `Images/` - Folder containing all dish photos
 
 
 ## 🎯 Project Purpose
@@ -41,4 +53,4 @@ This project was created to practice:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/odin-recipes.git
+git clone : git[https://github.com/your-username/odin-recipes.git](https://github.com/your-username/odin-recipes.git)
