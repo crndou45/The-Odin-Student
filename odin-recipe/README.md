@@ -53,4 +53,4 @@ This project was created to practice:
 
 1. Clone the repository:
 ```bash
-git clone : git[https://github.com/your-username/odin-recipes.git](https://github.com/your-username/odin-recipes.git)
+git clone : (https://github.com/your-username/odin-recipes.git)
