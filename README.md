@@ -33,7 +33,7 @@
 
 ## 🚀 Live Demos
 
-**The odin Recipe Project **
+**The odin Recipe Project**
 
 https://crndou45.github.io/Odin-Recipe/
 
