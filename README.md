@@ -33,6 +33,10 @@
 
 ## 🚀 Live Demos
 
+**The odin Recipe Project **
+
+https://crndou45.github.io/Odin-Recipe/
+
 All completed projects are deployed via GitHub Pages. Check individual project folders for demo links.
 
 ---
